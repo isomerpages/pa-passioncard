@@ -11,7 +11,7 @@ sections:
   - hero:
       background: /images/hero-banner.png
       dropdown:
-        title: ""
+        title: Let me see
         options:
           - title: PAssion Card
             url: ""

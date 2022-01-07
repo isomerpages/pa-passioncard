@@ -24,11 +24,24 @@ links:
         url: /permalink
       - title: PAssion CARES For You
         url: /permalink
-  - title: Contact Us
-    url: /contact-us/
+  - title: PAssion Deals
+    url: /permalink
+  - title: PAssion Merchats
+    url: /permalink
   - title: Example Page
     url: /example-page/
   - title: Example Collection
     collection: example-collection
   - title: Resource
     resource_room: true
+  - title: PAssion Partners
+    url: /permalink
+    sublinks:
+      - title: CAPITASTAR Rewards Programme
+        url: /permalink
+      - title: National Library Membership
+        url: /permalink
+      - title: TapForMore Rewards Programme
+        url: /permalink
+      - title: PAssion WaVe
+        url: /permalink

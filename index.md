@@ -4,7 +4,9 @@ title: PAssion Card
 description: PAssionCard
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: As our merchants may be updating their operations/operating hours
+  to align with the COVID-19 measures, PAssion Card Members are advised to check
+  with the respective merchants for the latest updates.
 sections:
   - hero:
       background: /images/banner.png

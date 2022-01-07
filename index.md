@@ -9,7 +9,7 @@ notification: As our merchants may be updating their operations/operating hours
   with the respective merchants for the latest updates.
 sections:
   - hero:
-      background: /images/banner.png
+      background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
         - title: Highlight A

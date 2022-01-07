@@ -28,12 +28,6 @@ links:
     url: /permalink
   - title: PAssion Merchats
     url: /permalink
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resource
-    resource_room: true
   - title: PAssion Partners
     url: /permalink
     sublinks:
@@ -45,3 +39,17 @@ links:
         url: /permalink
       - title: PAssion WaVe
         url: /permalink
+  - title: PAssion & Arts
+    url: /permalink
+  - title: PAssion Newsletters
+    url: /permalink
+  - title: Contests & Quizzes
+    url: /permalink
+  - title: Sign Up
+    url: /permalink
+  - title: Example Page
+    url: /example-page/
+  - title: Example Collection
+    collection: example-collection
+  - title: Resource
+    resource_room: true

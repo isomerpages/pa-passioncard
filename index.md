@@ -20,10 +20,8 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Featured
+      description: Check out the latest offerings from PAssion Card, right here, right now.
       url: /faq/
   - resources:
       title: Media

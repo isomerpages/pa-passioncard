@@ -17,7 +17,8 @@ Introduced in April 2005, the PAssion Card is a membership card of the People’
 In November 2009, PA enhanced the PAssion Card by incorporating the Contactless ePurse Application (CEPAS) technology into the card.  The PAssion “EZ-Link” Card is the first membership card in Singapore to be incorporated with the new EZ-Link purse that complies with the Singapore Standard for CEPAS and brings about greater convenience and added functionalities to the end user.  With this Card, PA has helped Singapore in its goal of being a SMART Nation.
 				</span><br><br>
 
-				<b>INTRODUCTION OF PASSION POSB DEBIT CARD</b><br>
+				<b>INTRODUCTION OF PASSION POSB DEBIT CARD</b>
+				<br>
 <span>In January 2014, the new PAssion POSB Debit Card was introduced jointly by the PA and POSB. This is the must have card for everyone (16 years old and above) as it allows cardholders to enjoy greater savings, rewards and privileges at over 2,500 places islandwide. What’s more, it can also be used to make MasterCard®, NETS and ATM transactions to give cardholders all the convenience they need.</span><br><br>
 				<b>CARD BENEFITS</b><br>
 <span>In summary, both PAssion EZ-Link Card Members and PAssion POSB Debit Cardholders will enjoy the following benefits</span>

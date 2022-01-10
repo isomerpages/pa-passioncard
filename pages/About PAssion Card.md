@@ -18,7 +18,9 @@ In November 2009, PA enhanced the PAssion Card by incorporating the Contactless 
 				</span><br><br>
 
 				<b>INTRODUCTION OF PASSION POSB DEBIT CARD</b><br>
-<span>In January 2014, the new PAssion POSB Debit Card was introduced jointly by the PA and POSB. This is the must have card for everyone (16 years old and above) as it allows cardholders to enjoy greater savings, rewards and privileges at over 2,500 places islandwide. What’s more, it can also be used to make MasterCard®, NETS and ATM transactions to give cardholders all the convenience they need.</span>
+<span>In January 2014, the new PAssion POSB Debit Card was introduced jointly by the PA and POSB. This is the must have card for everyone (16 years old and above) as it allows cardholders to enjoy greater savings, rewards and privileges at over 2,500 places islandwide. What’s more, it can also be used to make MasterCard®, NETS and ATM transactions to give cardholders all the convenience they need.</span><br><br>
+				<b>CARD BENEFITS</b><br>
+<span>In summary, both PAssion EZ-Link Card Members and PAssion POSB Debit Cardholders will enjoy the following benefits</span>
       </td>
     </tr>
   </tbody>

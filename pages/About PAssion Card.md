@@ -8,7 +8,7 @@ description: PAssioncard
 <table width="100%">
   <tbody>
     <tr>
-      <td>![Alt text for image on Isomer site](/images/PassionCard.png)</td>
+      <td><img src="/images/PassionCard.png"/></td>
       <td>
         **PASSION CARD - THE BEGINNING**
 

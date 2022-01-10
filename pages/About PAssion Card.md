@@ -8,8 +8,8 @@ description: PAssioncard
 <table width="100%">
   <tbody>
     <tr>
-      <td><img src="/images/PassionCard.png"/></td>
-      <td>
+      <td width="20%"><img src="/images/PassionCard.png"/></td>
+      <td width="80%">
         **PASSION CARD - THE BEGINNING**
 
 Introduced in April 2005, the PAssion Card is a membership card of the People’s Association (PA).  Besides offering members’ exclusive privileges for our exciting range of courses, activities and programmes, the PAssion Card also offers unique promotions via our tie-ups with our lifestyle merchants and partners. However, the PAssion Card is more than just another membership or discount card as it serves the unique purpose of bringing people together via a host of exciting and wholesome programmes and activities organised by the People’s Association (PA), Community Clubs (CCs) and other PA outlets.

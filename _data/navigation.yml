@@ -47,10 +47,6 @@ links:
   - title: PAssion & Arts
     url: /permalink
   - title: PAssion Newsletters
-    url: /permalink
-  - title: Contests & Quizzes
-    url: /permalink
+    resource_room: true
   - title: Sign Up
     url: /permalink
-  - title: Resource
-    resource_room: true

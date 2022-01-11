@@ -26,14 +26,19 @@ links:
         url: /permalink
   - title: Deals
     url: /permalink
+    sublinks:
+      - title: PAssion Deals
+        url: /permalink
+      - title: PAssion & The Arts
+        url: /permalink
   - title: Partners
     url: /permalink
     sublinks:
+      - title: Merchants
+        url: /permalink
       - title: CAPITASTAR Rewards Programme
         url: /permalink
       - title: National Library Membership
-        url: /permalink
-      - title: Merchants
         url: /permalink
       - title: TapForMore Rewards Programme
         url: /permalink

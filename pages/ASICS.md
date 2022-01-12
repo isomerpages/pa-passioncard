@@ -5,7 +5,7 @@ date: 2022-01-12
 layout: post
 description: ""
 ---
-![Alt text for image on Isomer site](/images/ASICS.jfif) {: width=25%}
+![Alt text for image on Isomer site](/images/ASICS.jfif) 
 **PASSION CARD PRIVILEGES**:
 * 15% off Performance selected regular-priced items
 * 20% off Sportstyle selected regular-priced items

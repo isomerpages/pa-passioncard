@@ -6,16 +6,13 @@ layout: post
 description: ""
 ---
 
-<div class="card">
+<ul class="block-grid">
   {%   for merchant in site.data.merchants   %}
-    <a href="{{ merchant.detil-url }}">
-      <div class="divFeaturedSmall">
-        <img class="featuredImageSmall" src= "{{ merchant.image-url }}" alt="{{ merchant.name }}" />
-      </div>
-      <div class="cardContent">
-        <div class="eventName">{{ merchant.name }}</div>
-        <div class="eventTitle">{{ merchant.category }}</div>
-      </div>
+  <li class="grid-item">
+    <a href="{{ merchant.detil-url }}"><img src= "{{ merchant.image-url }}" alt="{{ merchant.name }}" />
+      <h5>{{ merchant.name }}</h5>
+      <p>{{ merchant.category }}</p>
     </a>
+  </li>
   {% endfor %} 
-</div>
+</ul>

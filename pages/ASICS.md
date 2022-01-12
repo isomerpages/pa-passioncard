@@ -34,4 +34,4 @@ description: ""
 * Vivocity, #02-70/71
 * Westgate, #01-40
 
-Website: [www.asics.com.sg](www.asics.com.sg)
+Website: [www.asics.com.sg](https://www.asics.com/)

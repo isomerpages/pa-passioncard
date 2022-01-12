@@ -411,3 +411,34 @@ $desktop: 960px + (2 * $gap) !default;
   border: none;
   box-shadow: none;
 }
+
+// Card
+
+
+.card {
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid #dddddd;
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    position: relative;
+    min-height: 462px;
+    max-height: 462px;
+}
+
+.divFeaturedImgSmall {
+    min-height: 0;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+.divFeaturedImgSmall {
+    min-height: 0;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}

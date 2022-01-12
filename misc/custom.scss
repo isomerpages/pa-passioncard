@@ -435,10 +435,15 @@ $desktop: 960px + (2 * $gap) !default;
     margin-right: auto;
     overflow: hidden;
 }
-.divFeaturedImgSmall {
-    min-height: 0;
+.featuredImageSmall {
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
-    overflow: hidden;
+    margin: auto;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+    height: auto;
 }

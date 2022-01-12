@@ -447,3 +447,16 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
     height: auto;
 }
+.card .cardContent {
+    padding: 10px 10px;
+}
+.cardContent .eventName {
+    color: #333333;
+}
+.eventTitle {
+    font-size: 15px;
+    color: #ed1a3b;
+    text-align: center;
+    font-family: 'Segoe UI',Helvetica,"OpenSansSemiBold", Georgia, Serif;
+    margin-bottom: 10px;
+}

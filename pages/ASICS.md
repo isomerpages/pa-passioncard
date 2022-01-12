@@ -5,9 +5,7 @@ date: 2022-01-12
 layout: post
 description: ""
 ---
-|||
-| ---------------- | -------- |
-|![Alt text for image on Isomer site](/images/ASICS.jfif)| 
+![Alt text for image on Isomer site](/images/ASICS.jfif) 
 **PASSION CARD PRIVILEGES**:
 * 15% off Performance selected regular-priced items
 * 20% off Sportstyle selected regular-priced items
@@ -36,4 +34,4 @@ description: ""
 * Vivocity, #02-70/71
 * Westgate, #01-40
 
-Website: www.asics.com.sg|
+Website: [www.asics.com.sg](www.asics.com.sg)

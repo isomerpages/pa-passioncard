@@ -8,12 +8,12 @@ description: ""
 |||
 | ---------------- | -------- |
 |![Alt text for image on Isomer site](/images/ASICS.jfif)| 
-PASSION CARD PRIVILEGES:
-15% off Performance selected regular-priced items
-20% off Sportstyle selected regular-priced items
-Additional 5% off discounted items
-15% off Performance selected regular-priced items for online purchases (Promo Code: PASSION21)
-20% off Sportstyle regular-priced items for online purchases (Promo Code: PASSIONSPS)
+**PASSION CARD PRIVILEGES**:
+* 15% off Performance selected regular-priced items
+* 20% off Sportstyle selected regular-priced items
+* Additional 5% off discounted items
+* 15% off Performance selected regular-priced items for online purchases (Promo Code: PASSION21)
+* 20% off Sportstyle regular-priced items for online purchases (Promo Code: PASSIONSPS)
 
 Terms & Conditions:
 Valid till 30 June 2022
@@ -39,4 +39,3 @@ Vivocity, #02-70/71
 Westgate, #01-40
 
 Website: www.asics.com.sg|
-

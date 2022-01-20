@@ -1,12 +1,12 @@
 # Merchants - all (updated on 2022-01-12)
-- name: ASICS
-  image-url: /images/ASICS.jfif
-  categoty: Apparels & Accessories
-  detail-url: /asics
 - name: BEAUTIQ
   image-url: /images/BEAUTIQ.jfif
   category: Apparels & Accessories
   detail-url: /beautiq
+- name: ASICS
+  image-url: /images/ASICS.jfif
+  categoty: Apparels & Accessories
+  detail-url: /asics
 - name: BETTER VISION
   image-url: /images/BETTERVISION.jfif
   category: Apparels & Accessories

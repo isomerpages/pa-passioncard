@@ -26,8 +26,6 @@ links:
         url: /permalink
       - title: Healthy Living Events
         url: /Resources/MP-Healthy-Living
-      - title: Submenu Title
-        url: /permalink
   - title: Deals
     url: /permalink
     sublinks:

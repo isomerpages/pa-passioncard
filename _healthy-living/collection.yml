@@ -1,4 +1,5 @@
 collections:
   healthy-living:
     output: true
-    order: []
+    order:
+      - Healthy Living.md

@@ -36,4 +36,10 @@ sections:
       url: https://www.onepa.gov.sg/
       image: /images/pacourse.jpg
       alt: Image alt text
+  - infobar:
+      title: TITLE1
+      subtitle: TEST
+      description: A sample test
+      button: Click me!
+      url: https://www.onepa.gov.sg/
 ---

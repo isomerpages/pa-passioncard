@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://pa-passioncard-staging.netlify.app
 prod: https://pa-passioncard-prod.netlify.app
+is_government: true

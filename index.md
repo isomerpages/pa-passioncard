@@ -37,9 +37,18 @@ sections:
       image: /images/pacourse.jpg
       alt: Image alt text
   - infobar:
-      title: TITLE1
-      subtitle: TEST
-      description: A sample test
+      title: test1
+      subtitle: Test
+      description: sample
       button: Click me!
       url: https://www.onepa.gov.sg/
+  - infopic:
+      title: IMPORTANT NOTICE
+      subtitle: SCAM ALERT
+      description: "[SCAM ALERT] Scammers are actively targeting POSB customers,
+        including PAssion-POSB Cardholders,through a phishing email"
+      button: Please note that DBS/POSB does not send retail customers emails and
+        SMSes that contain clickable links.
+      url: /permalink
+      alt: Image alt text
 ---

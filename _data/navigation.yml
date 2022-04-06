@@ -56,7 +56,7 @@ links:
     url: /Resource/programmes/sample-programmes
     sublinks:
       - title: Program1
-        url: /permalink
+        url: //Resource/programmes/sample-programmes
       - title: Program 2
         url: /permalink
       - title: Program 3

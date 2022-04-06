@@ -39,6 +39,6 @@ sections:
         including PAssion-POSB Cardholders,through a phishing email"
       button: Please note that DBS/POSB does not send retail customers emails and
         SMSes that contain clickable links.
-      url: /permalink
+      url: /SCAM ALERT
       alt: Image alt text
 ---

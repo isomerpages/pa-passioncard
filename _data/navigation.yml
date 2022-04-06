@@ -53,7 +53,7 @@ links:
   - title: Sign Up
     url: /permalink
   - title: Programmes
-    url: /permalink
+    url: /Resource/programmes/sample-programmes
     sublinks:
       - title: Program1
         url: /permalink

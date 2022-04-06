@@ -9,18 +9,8 @@ notification: As our merchants may be updating their operations/operating hours
   with the respective merchants for the latest updates.
 sections:
   - hero:
-      background: /images/hero-banner.png
-      dropdown:
-        title: Let me see
-        options:
-          - title: PAssion Card
-            url: ""
-          - title: PAssion Deals
-            url: ""
-          - title: PAssion Merchants
-            url: ""
-          - title: PAssion & The Arts
-            url: ""
+      background: /images/mypassionapp.jpg
+      url: /permalink
   - infobar:
       title: Featured
       description: Check out the latest offerings from PAssion Card, right here, right now.

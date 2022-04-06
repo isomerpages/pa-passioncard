@@ -4,7 +4,6 @@ permalink: /permalink
 description: ""
 ---
 
-<img id="ContentContainer_ctl00_ctl00_ctl00_detailContainer_Repeater1_0_Image1_0" class="eventImageBig" alt="scam_alert" src="https://ap-southeast-1-02840027-view.menlosecurity.com/c/0/i/aHR0cHM6Ly93d3cucGFzc2lvbmNhcmQuZ292LnNnL2ltYWdlcy9kZWZhdWx0LXNvdXJjZS9pbWFnZXMtcGFjL3NjYW1fYWxlcnQucG5nP3NmdnJzbj05NGVkZDBmMV8y?k=Y8sE2Dh4UbRDrJIgDpX2zS-XlA5RXWZ0BU-v9aBBN2k~">``
 
 <p>[SCAM ALERT] Scammers are actively targeting POSB customers, including PAssion-POSB Cardholders, through a phishing email, which claims to be a “POSB-PAssion Rewards 2022!” survey. The email, which contains clickable links, adds that 500 customers who fill out the survey will receive a cash reward or air miles. This is <strong>NOT a legitimate email</strong> from POSB, PA or PAssion Card.<br>
 <br>

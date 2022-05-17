@@ -26,12 +26,6 @@ sections:
       url: https://www.onepa.gov.sg/
       image: /images/pacourse.jpg
       alt: Image alt text
-  - infobar:
-      title: test1
-      subtitle: Test
-      description: sample
-      button: Click me!
-      url: https://www.onepa.gov.sg/
   - infopic:
       title: IMPORTANT NOTICE
       subtitle: SCAM ALERT

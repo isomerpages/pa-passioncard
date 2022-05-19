@@ -2,4 +2,5 @@ collections:
   healthy-living:
     output: true
     order:
+      - Level 2/.keep
       - Healthy Living.md

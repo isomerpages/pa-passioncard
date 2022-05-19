@@ -35,8 +35,4 @@ sections:
         SMSes that contain clickable links.
       url: /scam-alert
       alt: Image alt text
-  - infobar:
-      title: "12345678901234567890123456789012345678901234567890"
-      description: "12"
-      button: Button Text
 ---

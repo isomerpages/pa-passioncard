@@ -1,4 +1,5 @@
 collections:
   passion-partners:
     output: true
-    order: []
+    order:
+      - Tapformore Rewards Programme.md

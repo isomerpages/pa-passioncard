@@ -1,4 +1,5 @@
 collections:
   passioncard:
     output: true
-    order: []
+    order:
+      - Sign Up.md

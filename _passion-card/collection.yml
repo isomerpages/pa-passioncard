@@ -1,4 +1,5 @@
 collections:
   passion-card:
     output: true
-    order: []
+    order:
+      - About PAssion Card.md

@@ -2,4 +2,5 @@ collections:
   passion-card:
     output: true
     order:
+      - About PAssion Silver Concession Card.md
       - About PAssion Card.md

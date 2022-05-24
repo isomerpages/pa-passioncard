@@ -1,0 +1,4 @@
+collections:
+  passioncard:
+    output: true
+    order: []

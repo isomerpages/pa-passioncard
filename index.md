@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/mypassionapp.jpg
+      background: /images/PAssionCard Website Move_1.png
       url: /permalink
   - infobar:
       title: We have moved!

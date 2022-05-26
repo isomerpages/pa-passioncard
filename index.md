@@ -10,7 +10,9 @@ sections:
       background: /images/mypassionapp.jpg
       url: /permalink
   - infobar:
-      title: Featured
-      description: Check out the latest offerings from PAssion Card, right here, right now.
-      url: /faq/
+      title: We have moved!
+      description: Visit us at our new site, and bookmark us for the latest PAssion
+        happenings and deals!
+      url: /faq/http://www.onepa.gov.sg/passion-card
+      button: Our New Site Here
 ---

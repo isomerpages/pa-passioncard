@@ -11,8 +11,8 @@ sections:
       url: /permalink
   - infobar:
       title: We have moved!
-      description: Visit us at our new site, and bookmark us for the latest PAssion
-        happenings and deals!
-      url: /faq/http://www.onepa.gov.sg/passion-card
+      description: Visit us at our new site, http://www.onepa.gov.sg/passion-card, and
+        bookmark us for the latest PAssion happenings and deals!
+      url: http://www.onepa.gov.sg/passion-card
       button: Our New Site Here
 ---

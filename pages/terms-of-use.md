@@ -4,13 +4,13 @@ permalink: /terms-of-use/
 ---
 Thank you for visiting the PAssion Card Website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website. 
  
-## General 
+#### General 
 
 These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this website after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
 
  
 
-Proprietary Rights 
+#### Proprietary Rights 
 
 This website is maintained by the People’s Association (PA). 
 
@@ -20,13 +20,13 @@ The materials located on this website including the information and software pro
 
  
 
-Privacy Policy 
+#### Privacy Policy 
 
-Click here to review this Website Privacy Policy Statement. 
+Click [here](https://pa-passioncard-staging.netlify.app/privacy/) to review this Website Privacy Policy Statement. 
 
  
 
-Restrictions on use of Materials 
+#### Restrictions on use of Materials 
 
 Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of PA. 
 
@@ -36,7 +36,7 @@ Modification of any of the Contents or use of the Contents for any other purpose
 
  
 
-Disclaimer of Warranties and Liability 
+#### Disclaimer of Warranties and Liability 
 
 The Contents of this Website provided on an "as is" basis without warranties of any kind. To the fullest extent permitted by law, PA does not warrant and hereby disclaims any warranty: 
 
@@ -49,13 +49,13 @@ that the Contents available through this Website or any functions associated the
 PA shall also not be liable for any damage or loss of any kind caused as a result (direct or indirect) of the use of the Website, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Website. 
 
  
-Right of Access 
+#### Right of Access 
 
 This Website contains hyperlinks to websites which are not maintained by PA. PA is not responsible for the contents of those websites and shall not be liable for any damages or loss arising from access to those Websites. Use of the hyperlinks and access to such websites are entirely at your own risk. 
 
  
 
-Links from this Website to other Websites 
+#### Links from this Website to other Websites 
 
 PA reserves all rights to deny or restrict access to this Website to any particular person, or to block access from a particular Internet address to this Website, at any time, without ascribing any reasons whatsoever. 
 
@@ -65,7 +65,7 @@ Hyperlinks to other Websites are provided as a convenience. In no circumstances 
 
  
 
-Links to this Website from other External Websites 
+#### Links to this Website from other External Websites 
 
 Except as set forth below, caching and links to, and the framing of this Website or any of the Contents are prohibited. 
 
@@ -91,6 +91,6 @@ PA reserves the right to disable any unauthorised links or frames and disclaims 
 
  
 
-Governing Law 
+#### Governing Law 
 
 These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.

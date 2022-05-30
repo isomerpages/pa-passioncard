@@ -1,0 +1,5 @@
+collections:
+  passion-partners:
+    output: true
+    order:
+      - TapForMore Rewards Programme.md

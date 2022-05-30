@@ -1,0 +1,5 @@
+collections:
+  passioncard:
+    output: true
+    order:
+      - Sign Up.md

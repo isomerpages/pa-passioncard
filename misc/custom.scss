@@ -335,3 +335,128 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+	  
+// merchants list
+.block-grid {  
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.block-grid .grid-item {
+  width: 31%;
+  padding: 6px;
+  list-style: none;
+  background: white;
+  display: flex;
+  flex: 0 0 auto;
+  border-radius: 6px;
+  text-align: center;
+  flex-direction: column;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 5px #ccc;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  background: linear-gradient(to bottom, #fff 40%, #ececec 100%);
+}
+
+.grid-item a {
+  padding: 0;
+  margin: 0;
+  font-size: 2rem;
+  color: black;
+  text-decoration: none;
+  border-radius: 6px;
+  height: 100%;
+  opacity: 1;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  transition: opacity 300ms ease;
+  &:hover {
+    opacity: 0.6;
+  }
+  &:focus {
+    background: rgba(0, 173, 239, 0.15);
+  }
+}
+
+.grid-item a img {
+  margin: 0;
+  padding: 0.5rem;
+  min-height: 100px;
+  height: 100px; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.grid-item a h5 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.grid-item a p {
+  font-size: 1rem;
+  line-height: 1.2;
+  margin: 0.5rem 0.5rem 2rem 0.5rem;
+}
+
+.grid-item.filler {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+// Card
+
+
+.card {
+    display: inline-block;
+    background-color: #fff;
+    border: 1px solid #dddddd;
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    vertical-align: top;
+    position: relative;
+    min-height: 462px;
+    max-height: 462px;
+}
+
+.divFeaturedImgSmall {
+    min-height: 0;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+.featuredImageSmall {
+    position: relative;
+    margin: auto;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+    height: auto;
+}
+.card .cardContent {
+    padding: 10px 10px;
+}
+.cardContent .eventName {
+    color: #333333;
+}
+.eventTitle {
+    font-size: 15px;
+    color: #ed1a3b;
+    text-align: center;
+    font-family: 'Segoe UI',Helvetica,"OpenSansSemiBold", Georgia, Serif;
+    margin-bottom: 10px;
+}

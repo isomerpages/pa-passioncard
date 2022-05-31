@@ -53,3 +53,4 @@ plugins:
 staging: https://pa-passioncard-staging.netlify.app
 prod: https://pa-passioncard-prod.netlify.app
 is_government: true
+google_analytics: UA-105394817-1
